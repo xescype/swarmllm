@@ -29,6 +29,6 @@
   },
   "devDependencies": {
     "peer": "^1.0.2",
-    "playwright": "1.49.1"
+    "playwright": "1.55.1"
   }
 }
